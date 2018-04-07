@@ -13,7 +13,7 @@
 - Theme & Icon
   - [file-icons](#file-icons)
   - [Material Palenight Theme](#material-palenight-theme)
-  - [One Dark Rain Coat (w/ Sublime Bable)](#one-dark-rain-coat)
+  - [One Dark Rain Coat (w/ Sublime Bable)](#one-dark-rain-coat-(w/-sublime-bable)-)
   
 - Execute
   - [Code Runner](#code-runner)
