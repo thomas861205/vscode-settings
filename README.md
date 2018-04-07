@@ -97,9 +97,7 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 > [Python]() is a integrated extension containing linting(語法/排版錯誤提示), Code formatting(自動排版), intellisense(智慧填字), etc.
 
-## Linting
-
-### flake8
+### Linting recommend: flake8
 
 flake8 is quite strict with the coding style, such as space between operators and operants, docstrings are required in every functions,
 unused variables, etc...
@@ -107,7 +105,7 @@ unused variables, etc...
 ![]()
 
 1. type "pip install flake8" in terminal.
-2. modify user setting.
+2. modify user setting(',' might required).
 
 > enables flake8.
 
@@ -120,10 +118,25 @@ unused variables, etc...
 ```
 "python.linting.flake8Args": [
         "--ignore=E265"
-    ],
+    ]
 ```
 
-## Code formatting
+### Code formatting recommend: autopep8
+
+1. type "pip install autopep8" in terminal.
+2. modify user setting(',' might required).
+
+> choose formatting package.
+
+```
+"python.formatting.autopep8Path": "autopep8",
+```
+
+> auto format every you save (crtl+s)
+
+```
+"editor.formatOnSave": true
+```
 
 ## VS Code Jupyter Notebook Previewer
 
