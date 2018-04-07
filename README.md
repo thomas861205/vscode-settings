@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-<div align="center"><font size = 10>Visual Studio Code</font></div>
+<div align="center"><font size = "8">Visual Studio Code</font></div>
 <div align="center">:fire: Sick ass IDE makes sick ass codes. :fire:</div>
 
 
