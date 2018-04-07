@@ -11,9 +11,9 @@
   - [Open setting](#Opens-etting)
 
 - Theme & Icon
-  - file-icons
-  - Material Palenight Theme
-  - One Dark Rain Coat (w/ Sublime Bable)
+  - [file-icons](#file-icons)
+  - [Material Palenight Theme](#Material-Palenight-Theme)
+  - [One Dark Rain Coat (w/ Sublime Bable)](#One-Dark-Rain-Coat)
   
 - Execute
   - [Code Runner](#Code-Runner)
@@ -28,6 +28,10 @@
 # Open Setting
 []()
 Left click the bottom left GEAR icon, find 設定.
+
+# file-icons
+
+# Material Palenight Theme
 
 # Code Runner
 
