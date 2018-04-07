@@ -97,7 +97,7 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 > [Python]() is a integrated extension containing linting(語法/排版錯誤提示), Code formatting(自動排版), intellisense(智慧填字), etc.
 
-- Linting
+## Linting
 
 ### flake8
 
@@ -115,7 +115,7 @@ unused variables, etc...
 "python.linting.flake8Enabled": true
 ```
 
-> ignores certain warning. Error codes can be found in below window 問題.
+> ignores certain warning. Error codes can be found in 問題 (buttom left).
 
 ```
 "python.linting.flake8Args": [
@@ -123,7 +123,7 @@ unused variables, etc...
     ],
 ```
 
-- Code formatting
+## Code formatting
 
 ## VS Code Jupyter Notebook Previewer
 
