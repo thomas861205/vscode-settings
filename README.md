@@ -14,7 +14,7 @@
 - [Themes and Icons](#themes-and-icons)
   - [file-icons](#file-icons)
   - [High Contrast](#high-contrast)
-  - [One Dark Rain Coat with Sublime Bable)](#one-dark-rain-coat-with-sublime-bable)
+  - [One Dark Rain Coat with Sublime Bable](#one-dark-rain-coat-with-sublime-bable)
   
 - [Execute](#execute)
   - [Code Runner](#code-runner)
@@ -51,14 +51,17 @@
 # Themes and Icons
 
 > Left click the bottom left GEAR icon, find 色彩佈景主題/檔案圖示佈景主題 to customize themes/icons.
+
 ![](https://github.com/thomas861205/vscode-settings/blob/master/change_theme.png)
 
 > Use arrow keys to preview changed theme.
+
 ![](https://github.com/thomas861205/vscode-settings/blob/master/use_arrowkey.png)
 
 ## file-icons
 
 > [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) provides a lot of qute icons.
+
 ![](https://github.com/thomas861205/vscode-settings/blob/master/file_icons.png)
 
 ## High Contrast
@@ -68,6 +71,7 @@
 ## One Dark Rain Coat with Sublime Bable
 
 > [One Dark Rain Coat]() is a purplish theme, also supports sublime highlights.
+
 ![](https://github.com/thomas861205/vscode-settings/blob/master/black_rain.png)
 
 # Execute
