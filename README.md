@@ -95,7 +95,13 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 ## Python extension
 
-> [Python]()
+> [Python]() is a integrated extension containing linting(語法/排版錯誤提示), Code formatting(自動排版), intellisense(智慧填字), etc.
+
+- Linting
+
+> flake8
+
+- Code formatting
 
 ## VS Code Jupyter Notebook Previewer
 
