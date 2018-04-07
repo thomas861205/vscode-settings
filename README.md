@@ -8,6 +8,7 @@
 # Table of Contents
 
 - [Basic Things](#basic-things)
+  - [Extensions](#extensions)
   - [Open setting](#open-setting)
 
 - [Themes and Icons](#themes-and-icons)
@@ -27,7 +28,16 @@
 
 #  Basic Things
 
+## Extensions
+
+> One of the features of VScode -- a wide variety of extensions, which makes the programming process efficient and satisfying.
+
+> Easy to browse and install, click the 擴充功能 on the left side.
+
+![](https://github.com/thomas861205/vscode-settings/blob/master/extensions.png)
+
 ## Open Setting
+
 > Left click the bottom left GEAR icon, find 設定.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/setting.png)
@@ -49,16 +59,16 @@
 ## file-icons
 
 > [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) provides a lot of qute icons.
-![]()
+![](https://github.com/thomas861205/vscode-settings/blob/master/file_icons.png)
 
-## High Constrast
+## High Contrast
 
 > One of the default theme, which is the theme in all example pictures.
 
 ## One Dark Rain Coat with Sublime Bable
 
 > [One Dark Rain Coat]() is a purplish theme, also supports sublime highlights.
-![]
+![](https://github.com/thomas861205/vscode-settings/blob/master/black_rain.png)
 
 # Execute
 
