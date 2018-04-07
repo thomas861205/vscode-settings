@@ -110,7 +110,7 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/jupyter.png)
 
-## Python extension
+## <a name="python-extension"></a>Python
 
 > [Python]() is a integrated extension containing linting(語法/排版錯誤提示), Code formatting(自動排版), intellisense(智慧填字), etc.
 
