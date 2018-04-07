@@ -16,7 +16,7 @@
   - [High Contrast](#high-contrast)
   - [One Dark Rain Coat with Sublime Bable](#one-dark-rain-coat-with-sublime-bable)
   
-- [Execute](#execute)
+- [Execution](#execution)
   - [Code Runner](#code-runner)
   
 - [Python](#python)
@@ -74,12 +74,14 @@
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/black_rain.png)
 
-# Execute
+# Execution
 
 ## Code Runner
 
-[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) enables you to run various of codes,
+> [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) enables you to run various of codes,
 Python, C/C++ are included. But need to step up compiler or interpreter beforehand.
+
+> press crtl+alt+n or right click and select "run code" to execute. Also support block execution in Python. 
 
 # Python
 
