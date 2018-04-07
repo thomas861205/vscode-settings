@@ -8,7 +8,7 @@
 # Table of Contents
 
 - Basic Things
-  - [Open setting](#opens-setting)
+  - [Open setting](#open-setting)
 
 - Theme & Icon
   - [file-icons](#file-icons)
