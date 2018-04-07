@@ -23,12 +23,12 @@
   - [Python extension](#python-extension)
   - [VS Code Jupyter Notebook Previewer](#vs-code-jupyter-notebook-previewer)
   
-- C++
+- [C++](#c++)
 
 #  Basic Things
 
 ## Open Setting
-
+[](https://github.com/thomas861205/vscode-settings/blob/master/setting.png)
  > Left click the bottom left GEAR icon, find 設定.
 
 # Theme & Icon
@@ -53,3 +53,5 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 ## Python extension
 
 ## VS Code Jupyter Notebook Previewer
+
+# C++
