@@ -26,7 +26,7 @@
 - C++
 
 #  Basic Things
- - Open Setting
+ ## Open Setting
  > Left click the bottom left GEAR icon, find 設定.
 
 # file-icons
