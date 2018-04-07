@@ -23,3 +23,5 @@
 - C++
 
 # Code Runner
+
+[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
