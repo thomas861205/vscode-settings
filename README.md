@@ -3,7 +3,7 @@
   <img src="https://github.com/thomas861205/vscode-settings/blob/master/cover.png">
 </div>
 <br/>
-<div align="center">
+<div align="center"> Sick ass IDE makes sick ass codes. </div>
 
 # Table of Contents
 
