@@ -87,7 +87,15 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 ## Jupyter
 
+> [Jupyter](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter) is a sick extension in vscode.
+
+> It allows you to create cells just like Jupyter Notebook by typing the keywowrd "#%%" in a line.
+
+![]()
+
 ## Python extension
+
+> [Python]()
 
 ## VS Code Jupyter Notebook Previewer
 
