@@ -99,7 +99,8 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 - Linting
 
-> flake8
+> flake8 : pip install flake8
+> add 
 
 - Code formatting
 
