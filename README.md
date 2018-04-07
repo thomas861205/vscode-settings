@@ -41,10 +41,10 @@
 # Themes and Icons
 
 > Left click the bottom left GEAR icon, find 色彩佈景主題/檔案圖示佈景主題 to customize themes/icons.
-![]()
+![](https://github.com/thomas861205/vscode-settings/blob/master/change_theme.png)
 
 > Use arrow keys to preview changed theme.
-![]()
+![](https://github.com/thomas861205/vscode-settings/blob/master/use_arrowkey.png)
 
 ## file-icons
 
