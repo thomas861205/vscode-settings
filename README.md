@@ -83,6 +83,8 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 > press crtl+alt+n or right click and select "run code" to execute. Also support block execution in Python. 
 
+![](https://github.com/thomas861205/vscode-settings/blob/master/run_code.png)
+
 # Python
 
 ## Jupyter
@@ -91,7 +93,7 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 > It allows you to create cells just like Jupyter Notebook by typing the keywowrd "#%%" in a line.
 
-![]()
+![](https://github.com/thomas861205/vscode-settings/blob/master/jupyter.png)
 
 ## Python extension
 
@@ -102,16 +104,18 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 flake8 is quite strict with the coding style, such as space between operators and operants, docstrings are required in every functions,
 unused variables, etc...
 
-![]()
-
 1. type "pip install flake8" in terminal.
 2. modify user setting(',' might required).
+
+![](https://github.com/thomas861205/vscode-settings/blob/master/flake8.png)
 
 > enables flake8.
 
 ```
 "python.linting.flake8Enabled": true
 ```
+
+![](https://github.com/thomas861205/vscode-settings/blob/master/error_e226.png)
 
 > ignores certain warning. Error codes can be found in 問題 (buttom left).
 
@@ -129,7 +133,7 @@ unused variables, etc...
 > choose formatting package.
 
 ```
-"python.formatting.autopep8Path": "autopep8",
+"python.formatting.autopep8Path": "autopep8"
 ```
 
 > auto format every you save (crtl+s)
@@ -139,5 +143,12 @@ unused variables, etc...
 ```
 
 ## VS Code Jupyter Notebook Previewer
+
+[VS Code Jupyter Notebook Previewer](https://marketplace.visualstudio.com/items?itemName=jithurjacob.nbpreviewer) let you preview
+.ipynb so you don't need to open jupyter notebook. But only preview, cannont execute,
+
+> press "show preview" on the upper right side.
+
+![](https://github.com/thomas861205/vscode-settings/blob/master/jupyter_preview.png)
 
 # C++
