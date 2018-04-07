@@ -12,7 +12,7 @@
 
 - [Themes and Icons](#themes-and-icons)
   - [file-icons](#file-icons)
-  - [Material Palenight Theme](#material-palenight-theme)
+  - [High Contrast](#high-contrast)
   - [One Dark Rain Coat with Sublime Bable)](#one-dark-rain-coat-with-sublime-bable)
   
 - [Execute](#execute)
@@ -51,9 +51,14 @@
 > [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) provides a lot of qute icons.
 ![]()
 
-## Material Palenight Theme
+## High Constrast
+
+> One of the default theme, which is the theme in all example pictures.
 
 ## One Dark Rain Coat with Sublime Bable
+
+> [One Dark Rain Coat]() is a purplish theme, also supports sublime highlights.
+![]
 
 # Execute
 
