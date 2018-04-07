@@ -28,11 +28,13 @@
 #  Basic Things
 
 ## Open Setting
+> Left click the bottom left GEAR icon, find 設定.
 ![](https://github.com/thomas861205/vscode-settings/blob/master/setting.png)
- > Left click the bottom left GEAR icon, find 設定.
+ <br/>
  
- ![](https://github.com/thomas861205/vscode-settings/blob/master/edit_setting.png)
  > Hover on the left section, and hit 編輯 to customize the settings.
+![](https://github.com/thomas861205/vscode-settings/blob/master/edit_setting.png)
+<br/>
 
 # Theme & Icon
 
