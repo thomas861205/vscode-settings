@@ -27,8 +27,7 @@
 
 #  Basic Things
  - Open Setting
-[]()
-Left click the bottom left GEAR icon, find 設定.
+ > Left click the bottom left GEAR icon, find 設定.
 
 # file-icons
 
