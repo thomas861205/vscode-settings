@@ -13,7 +13,7 @@
   - One Dark Rain Coat (w/ Sublime Bable)
   
 - Execute
-  - [Code Runner](Code Runner)
+  - [Code Runner](#Code Runner)
   
 - Python
   - Jupyter
@@ -24,4 +24,5 @@
 
 # Code Runner
 
-[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) enables you to run various of codes,
+Python, C/C++ are included. But need to step up compiler or interpreter beforehand.
