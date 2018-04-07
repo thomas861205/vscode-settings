@@ -160,7 +160,7 @@ unused variables, etc...
 ## VS Code Jupyter Notebook Previewer
 
 [VS Code Jupyter Notebook Previewer](https://marketplace.visualstudio.com/items?itemName=jithurjacob.nbpreviewer) let you preview
-.ipynb so you don't need to open jupyter notebook. But only preview, cannont execute,
+.ipynb so you don't need to open jupyter notebook. But only preview, cannot execute,
 
 > press "show preview" on the upper right side.
 
