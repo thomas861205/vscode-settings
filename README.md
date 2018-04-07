@@ -10,6 +10,7 @@
 - [Basic Things](#basic-things)
   - [Extensions](#extensions)
   - [Open setting](#open-setting)
+  - [Hot Keybind](#hot-keybind)
 
 - [Themes and Icons](#themes-and-icons)
   - [file-icons](#file-icons)
@@ -47,6 +48,12 @@
  
 ![](https://github.com/thomas861205/vscode-settings/blob/master/edit_setting.png)
 <br/>
+
+## Hot Keybind
+
+- close open folder: press crtl+k then press f
+- save file: crtl+s
+- fontsize up/down: crtl + "numberpad +" / crtl + "numberpad -"
 
 # Themes and Icons
 
@@ -91,7 +98,7 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 > [Jupyter](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter) is a sick extension in vscode.
 
-> It allows you to create cells just like Jupyter Notebook by typing the keywowrd "#%%" in a line.
+> It allows you to create cells just like Jupyter Notebook by typing the keyword "#%%" in a line.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/jupyter.png)
 
@@ -121,7 +128,7 @@ unused variables, etc...
 
 ```
 "python.linting.flake8Args": [
-        "--ignore=E265"
+        "--ignore=E226"
     ]
 ```
 
@@ -136,7 +143,7 @@ unused variables, etc...
 "python.formatting.autopep8Path": "autopep8"
 ```
 
-> auto format every you save (crtl+s)
+> auto format every you save
 
 ```
 "editor.formatOnSave": true
