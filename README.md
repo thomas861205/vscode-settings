@@ -7,7 +7,7 @@
 
 # Table of Contents
 
-- Basic Things
+- [Basic Things](#basic-things)
   - [Open setting](#open-setting)
 
 - Theme & Icon
@@ -25,7 +25,8 @@
   
 - C++
 
-# Open Setting
+#  Basic Things
+ - Open Setting
 []()
 Left click the bottom left GEAR icon, find 設定.
 
