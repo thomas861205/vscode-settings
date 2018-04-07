@@ -5,6 +5,11 @@
 <br/>
 <div align="center"> Sick ass IDE makes sick ass codes. </div>
 
+# Why I switch to VScode?
+
+Mostly because Python programming. Sublime has Python REPL, but it is quite slow and apt to crash when executing big programs. In VScode, it has built-in terminal and is stable and fast. Plus, the Jupyter extension is awesome (tho not as good as Jupyter Notebook).
+Last but not least, I care about the UI very much. I rock with cool theme and change them frequently, VScode also got it covered.
+
 # Table of Contents
 
 - [Basic Things](#basic-things)
