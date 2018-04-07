@@ -60,9 +60,9 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 ## Hot Keybind
 
-- close open folder: press crtl+k then press f
-- save file: crtl+s
-- fontsize up/down: crtl + "numberpad +" / crtl + "numberpad -"
+- close open folder: press ctrl+k then press f
+- save file: ctrl+s
+- fontsize up/down: ctrl + "numberpad +" / ctrl + "numberpad -"
 
 # Themes and Icons
 
@@ -97,7 +97,7 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 > [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) enables you to run various of codes,
 Python, C/C++ are included. But need to step up compiler or interpreter beforehand.
 
-> press crtl+alt+n or right click and select "run code" to execute. Also support block execution in Python. 
+> press ctrl+alt+n or right click and select "run code" to execute. Also support block execution in Python. 
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/run_code.png)
 
