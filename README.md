@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-<div align="center"><font size="6">This is some text!</font></div>
+# <div align="center">VS code</div>
 <div align="center">:fire: Sick ass IDE makes sick ass codes. :fire:</div>
 
 
