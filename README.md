@@ -4,9 +4,8 @@
 </div>
 <br/>
 
-:fire:
-<div align="center"> Sick ass IDE makes sick ass codes.</div>
-:fire:
+<div align="center">:fire: Sick ass IDE makes sick ass codes. :fire:</div>
+
 
 
 # Why I switch to VScode?
