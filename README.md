@@ -101,7 +101,9 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 > flake8 : pip install flake8
 > add
-    - "python.linting.flake8Enabled": true
+```
+"python.linting.flake8Enabled": true
+```
 > to user setting
 
 - Code formatting
