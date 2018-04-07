@@ -10,7 +10,7 @@
 - [Basic Things](#basic-things)
   - [Open setting](#open-setting)
 
-- Theme & Icon
+- [Theme & Icon](#Theme-&-Icon)
   - [file-icons](#file-icons)
   - [Material Palenight Theme](#material-palenight-theme)
   - [One Dark Rain Coat (w/ Sublime Bable)](#one-dark-rain-coat-(w/-sublime-bable)-)
@@ -29,7 +29,8 @@
  ## Open Setting
  > Left click the bottom left GEAR icon, find 設定.
 
-# file-icons
+# Theme & Icon
+## file-icons
 
 # Material Palenight Theme
 
