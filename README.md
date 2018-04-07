@@ -95,7 +95,7 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 ## Code Runner
 
 > [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) enables you to run various of codes,
-Python, C/C++ are included. But need to step up compiler or interpreter beforehand.
+Python, C/C++ are included. But need to set up compiler or interpreter beforehand.
 
 > press ctrl+alt+n or right click and select "run code" to execute. Also support block execution in Python. 
 
