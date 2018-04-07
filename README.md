@@ -15,34 +15,41 @@
   - [Material Palenight Theme](#material-palenight-theme)
   - [One Dark Rain Coat (w/ Sublime Bable)](#one-dark-rain-coat-(w/-sublime-bable)-)
   
-- Execute
+- [Execute](#execute)
   - [Code Runner](#code-runner)
   
-- Python
+- [Python](#python)
   - [Jupyter](#jupyter)
-  - [Python](#python)
+  - [Python extension](#python-extension)
   - [VS Code Jupyter Notebook Previewer](#vs-code-jupyter-notebook-previewer)
   
 - C++
 
 #  Basic Things
- ## Open Setting
+
+## Open Setting
+
  > Left click the bottom left GEAR icon, find 設定.
 
 # Theme & Icon
-  ## file-icons
 
-# Material Palenight Theme
+## file-icons
 
-# One Dark Rain Coat (w/ Sublime Bable)
+## Material Palenight Theme
 
-# Code Runner
+## One Dark Rain Coat (w/ Sublime Bable)
+
+# Execute
+
+## Code Runner
 
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) enables you to run various of codes,
 Python, C/C++ are included. But need to step up compiler or interpreter beforehand.
 
-# Jupyter
-
 # Python
 
-# VS Code Jupyter Notebook Previewer
+## Jupyter
+
+## Python extension
+
+## VS Code Jupyter Notebook Previewer
