@@ -48,6 +48,9 @@
 
 ## file-icons
 
+> [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) provides a lot of qute icons.
+![]()
+
 ## Material Palenight Theme
 
 ## One Dark Rain Coat with Sublime Bable
