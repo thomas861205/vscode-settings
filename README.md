@@ -27,6 +27,7 @@
 
 # Open Setting
 []()
+Left click the bottom left GEAR icon, find 設定.
 
 # Code Runner
 
