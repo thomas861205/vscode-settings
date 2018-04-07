@@ -4,7 +4,6 @@
 </div>
 <br/>
 
-<font size = 2> VS </font>
 <div align="center">:fire: Sick ass IDE makes sick ass codes. :fire:</div>
 
 
