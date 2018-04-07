@@ -7,6 +7,9 @@
 
 # Table of Contents
 
+- Basic Things
+  - [Open setting](#Opens-etting)
+
 - Theme & Icon
   - file-icons
   - Material Palenight Theme
@@ -21,6 +24,9 @@
   - VS Code Jupyter Notebook Previewer
   
 - C++
+
+# Open Setting
+[]()
 
 # Code Runner
 
