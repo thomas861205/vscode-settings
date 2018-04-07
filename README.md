@@ -10,7 +10,7 @@
 - [Basic Things](#basic-things)
   - [Open setting](#open-setting)
 
-- [Theme & Icon](#theme-&-icon)
+- [Themes and Icons](#themes-and-icons)
   - [file-icons](#file-icons)
   - [Material Palenight Theme](#material-palenight-theme)
   - [One Dark Rain Coat with Sublime Bable)](#one-dark-rain-coat-with-sublime-bable)
@@ -29,14 +29,22 @@
 
 ## Open Setting
 > Left click the bottom left GEAR icon, find 設定.
+
 ![](https://github.com/thomas861205/vscode-settings/blob/master/setting.png)
  <br/>
  
  > Hover on the left section, and hit 編輯 to customize the settings.
+ 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/edit_setting.png)
 <br/>
 
-# Theme & Icon
+# Themes and Icons
+
+> Left click the bottom left GEAR icon, find 色彩佈景主題/檔案圖示佈景主題 to customize themes/icons.
+![]()
+
+> Use arrow keys to preview changed theme.
+![]()
 
 ## file-icons
 
