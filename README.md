@@ -99,14 +99,23 @@ Python, C/C++ are included. But need to step up compiler or interpreter beforeha
 
 - Linting
 
-> flake8 : pip install flake8
+### flake8
 
-> modify user setting
+flake8 is quite strict with the coding style, such as space between operators and operants, docstrings are required in every functions,
+unused variables, etc...
+
+![]()
+
+1. type "pip install flake8" in terminal.
+2. modify user setting.
+
+> enables flake8.
 
 ```
 "python.linting.flake8Enabled": true
 ```
-> enables flake8.
+
+> ignores certain warning. Error codes can be found in below window 問題.
 
 ```
 "python.linting.flake8Args": [
