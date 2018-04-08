@@ -19,7 +19,7 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
   - [Extensions](#extensions)
   - [Open Setting](#open-setting)
   - [Hot Keybind](#hot-keybind)
-  - [Setting Environment Path](#setting-environment-path)
+  - [Setting Environment Path](#setting-environment-path)
 
 - [Themes and Icons](#themes-and-icons)
   - [file-icons](#file-icons)
@@ -189,9 +189,15 @@ unused variables, etc...
 
 > Processing is a java-based language. Using processing can easily accomplish some visual effects or physical simulation. But it isn't supported by Code Runner by default. We need to set up the processing-java in environment path first.
 
-> Let Code Runner recognize .pde(processing extension).
+- [Set up環境變數](#setting-environment-path)
 
-> Add to the user setting.
+> Find the path of processing-3.3.7 folder, mine is `D:\processing-3.3.7\`.
+
+> Add it to the [PATH](#setting-environment-path).
+
+- Let Code Runner recognize .pde(processing extension).
+
+> Add to the code below to the user setting.
 
 ```
 "code-runner.executorMapByFileExtension": {
