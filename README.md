@@ -42,8 +42,7 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 ## Extensions
 
-> One of the features of VScode -- a wide variety of extensions, which makes the programming process efficient and satisfying.
-
+> One of the features of VScode -- a wide variety of extensions, which makes the programming process efficient and satisfying.<br>
 > Easy to browse and install, click the 擴充功能 on the left side.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/extensions.png)
@@ -62,9 +61,9 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 ## Hot Keybind
 
-- Close Open Folder: press ctrl+k then press f
-- Save File: ctrl+s
-- Fontsize Up/Down: ctrl + "numberpad +" / ctrl + "numberpad -"
+- Close Open Folder: press `ctrl+k` then press `f`
+- Save File: `ctrl+s`
+- Fontsize Up/Down: `ctrl + "numberpad +"` / `ctrl + "numberpad -"`
 
 ## Setting Environment Path
 
@@ -109,9 +108,8 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 ## Code Runner
 
 > [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) enables you to run various of codes,
-Python, C/C++ are included. But need to set up compiler or interpreter beforehand.
-
-> press ctrl+alt+n or right click and select "run code" to execute. Also support block execution in Python. 
+Python, C/C++ are included. But need to set up compiler or interpreter beforehand.<br>
+> press `ctrl+alt+n` or right click and select "run code" to execute. Also support block execution in Python. 
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/run_code.png)
 
@@ -119,8 +117,7 @@ Python, C/C++ are included. But need to set up compiler or interpreter beforehan
 
 ## Jupyter
 
-> [Jupyter](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter) is a sick extension in vscode.
-
+> [Jupyter](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter) is a sick extension in vscode.<br>
 > It allows you to create cells just like Jupyter Notebook by typing the keyword "#%%" in a line.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/jupyter.png)
