@@ -35,6 +35,8 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
   
 - [C++](#c++)
 
+- [Processing](#processing)
+
 #  Basic Things
 
 ## Extensions
@@ -169,3 +171,16 @@ unused variables, etc...
 # <a name="c++"></a>C++
 
 > Under construction :hammer:
+
+# Processing
+
+> Processing is a java-based language. Using processing can easily accomplish some visual effect or pysical simulation. But it isn't supported by Code Runner by default. We need to set up the processing-java in environment path first.
+
+> Let Code Runner recognize .pde(processing extension).
+> Add to the user setting.
+
+```
+"code-runner.executorMapByFileExtension": {
+    ".pde": "processing-java --sketch=$dir --output=$dir/output --force --run"
+},
+```
