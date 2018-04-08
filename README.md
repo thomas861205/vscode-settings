@@ -191,13 +191,12 @@ unused variables, etc...
 
 - [Set up環境變數](#setting-environment-path)
 
-> Find the path of processing-3.3.7 folder, mine is `D:\processing-3.3.7\`.
-
+> Find the path of processing-3.3.7 folder, mine is `D:\processing-3.3.7\`. <br>
 > Add it to the [PATH](#setting-environment-path).
 
 - Let Code Runner recognize .pde(processing extension).
 
-> Add to the code below to the user setting.
+> Add the code below to the user setting.
 
 ```
 "code-runner.executorMapByFileExtension": {
