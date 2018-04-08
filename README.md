@@ -17,8 +17,9 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 - [Basic Things](#basic-things)
   - [Extensions](#extensions)
-  - [Open setting](#open-setting)
+  - [Open Setting](#open-setting)
   - [Hot Keybind](#hot-keybind)
+  - [Setting Environment Path](#setting-environment-path)
 
 - [Themes and Icons](#themes-and-icons)
   - [file-icons](#file-icons)
@@ -61,9 +62,21 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 ## Hot Keybind
 
-- close open folder: press ctrl+k then press f
-- save file: ctrl+s
-- fontsize up/down: ctrl + "numberpad +" / ctrl + "numberpad -"
+- Close Open Folder: press ctrl+k then press f
+- Save File: ctrl+s
+- Fontsize Up/Down: ctrl + "numberpad +" / ctrl + "numberpad -"
+
+## Setting Environment Path
+
+1. Go to 桌面.
+
+2. Right click 我的電腦, select 內容.
+
+3. Click 進階系統設定 on the left, and select 環境變數 in the new window.
+
+4. Find PATH in 使用者變數(upper section), and edit.
+
+5. Click 確定 all the way out.
 
 # Themes and Icons
 
@@ -174,9 +187,10 @@ unused variables, etc...
 
 # Processing
 
-> Processing is a java-based language. Using processing can easily accomplish some visual effect or pysical simulation. But it isn't supported by Code Runner by default. We need to set up the processing-java in environment path first.
+> Processing is a java-based language. Using processing can easily accomplish some visual effects or physical simulation. But it isn't supported by Code Runner by default. We need to set up the processing-java in environment path first.
 
 > Let Code Runner recognize .pde(processing extension).
+
 > Add to the user setting.
 
 ```
