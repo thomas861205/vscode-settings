@@ -27,6 +27,7 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
   - [One Dark Rain Coat with Sublime Bable](#one-dark-rain-coat-with-sublime-bable)
   
 - [Execution](#execution)
+  - [Integrated Terminal](#intergrated-terminal)
   - [Code Runner](#code-runner)
   
 - [Python](#python)
@@ -104,6 +105,10 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 ![](https://github.com/thomas861205/vscode-settings/blob/master/black_rain.png)
 
 # Execution
+
+## Integrated Terminal
+> The default intergrated terminal is the Powershell.exe. There are some [difference](https://kknews.cc/zh-tw/other/box8e5m.html)
+between the Powershell.exe and CMD.exe. One of the significant difference is the redirection and pipeline command.
 
 ## Code Runner
 
