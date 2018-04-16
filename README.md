@@ -114,9 +114,13 @@ Since I wasn't familiar with the Powershell, so I decided to change the integrat
 
 1. Open 設定.
 2. In 設定, find 整合式終端機. There should be an option called ""terminal.integrated.shell.windows":" 
-3. Change the path to where your CMD.exe is. For me:
+3. Change the path to where your cmd.exe is. For me (note the double backslashes in the path):
 ```
 "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
+```
+4. Enjoy the convenience by using cmd pipiline and redirection commands.
+```
+filename.exe < input.txt > output.txt
 ```
 
 ## Code Runner
