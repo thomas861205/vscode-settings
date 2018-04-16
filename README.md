@@ -118,7 +118,7 @@ Since I wasn't familiar with the Powershell, so I decided to change the integrat
 ```
 "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
 ```
-4. Enjoy the convenience by using cmd pipiline and redirection commands.
+4. Enjoy the convenience by using cmd pipeline and redirection commands.
 ```
 filename.exe < input.txt > output.txt
 ```
