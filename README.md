@@ -107,9 +107,17 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 # Execution
 
 ## Integrated Terminal
-> The default intergrated terminal is the Powershell.exe. There are some 
+> The default integrated terminal is the Powershell.exe. There are some 
 <a href="https://kknews.cc/zh-tw/other/box8e5m.html" target="_blank">differences</a>
 between the Powershell.exe and CMD.exe. One of the significant difference is the redirection and pipeline command.
+Since I wasn't familiar with the Powershell, so I decided to change the integrated terminal to cmd.
+
+1. Open 設定.
+2. In 設定, find 整合式終端機. There should be an option called ""terminal.integrated.shell.windows":" 
+3. Change the path to where your CMD.exe is. For me:
+```
+"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
+```
 
 ## Code Runner
 
