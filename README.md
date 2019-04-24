@@ -23,11 +23,9 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 - [Themes and Icons](#themes-and-icons)
   - [file-icons](#file-icons)
-  - [High Contrast](#high-contrast)
-  - [One Dark Rain Coat with Sublime Bable](#one-dark-rain-coat-with-sublime-bable)
+  - [Monokai](#Monokai)
   
 - [Execution](#execution)
-  - [Integrated Terminal](#integrated-terminal)
   - [Code Runner](#code-runner)
   
 - [Python](#python)
