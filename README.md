@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-<div align="center">:fire: Sick ass IDE makes sick ass codes. :fire:</div>
+<div align="center">:fire: Sick ass IDE makes sick ass codes. ver 1.33.1 :fire:</div>
 
 
 
@@ -48,23 +48,22 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/images/extensions.png)
 
-## Open Setting
+## Open Settings
 
 > Left click the bottom left GEAR icon, find Settings.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/images/setting.png)
  <br/>
  
- > Hover on the left section, and hit 編輯 to customize the settings.
- 
-![](https://github.com/thomas861205/vscode-settings/blob/master/images/edit_setting.png)
-<br/>
 
 ## Hot Keybind
 
 - Close Open Folder: press `ctrl+k` then press `f`
 - Save File: `ctrl+s`
 - Fontsize Up/Down: `ctrl + "numberpad +"` / `ctrl + "numberpad -"`
+- Toggle Sidebar: `ctrl+b`
+- Open Terminal: `ctrl+`
+- Run codes: `F5`
 
 ## Setting Environment Path
 
@@ -80,7 +79,7 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 # Themes and Icons
 
-> Left click the bottom left GEAR icon, find 色彩佈景主題/檔案圖示佈景主題 to customize themes/icons.
+> Left click the bottom left GEAR icon, find Color Theme to customize themes/icons.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/images/change_theme.png)
 
@@ -90,38 +89,17 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 ## file-icons
 
-> [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) provides a lot of qute icons.
+> [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) is an extension which provides a lot of qute icons.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/images/file_icons.png)
 
-## High Contrast
+## Monokai
 
-> One of the default theme, which is the theme in all example pictures.
+> One of the default theme, which is the theme in all example pictures. Also, it is the default theme in Sublime Text 3.
 
-## One Dark Rain Coat with Sublime Bable
-
-> [One Dark Rain Coat]() is a purplish theme, also supports sublime highlights.
-
-![](https://github.com/thomas861205/vscode-settings/blob/master/images/black_rain.png)
 
 # Execution
 
-## Integrated Terminal
-> The default integrated terminal is the Powershell.exe. There are some 
-<a href="https://kknews.cc/zh-tw/other/box8e5m.html" target="_blank">differences</a>
-between the Powershell.exe and CMD.exe. One of the significant difference is the redirection and pipeline command.
-Since I wasn't familiar with the Powershell, so I decided to change the integrated terminal to cmd.
-
-1. Open 設定.
-2. In 設定, find 整合式終端機. There should be an option called ""terminal.integrated.shell.windows":" 
-3. Change the path to where your cmd.exe is. For me (note the double backslashes in the path):
-```
-"terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
-```
-4. Enjoy the convenience by using cmd pipeline and redirection commands.
-```
-filename.exe < input.txt > output.txt
-```
 
 ## Code Runner
 
@@ -135,14 +113,14 @@ Python, C/C++ are included. But need to set up compiler or interpreter beforehan
 
 ## Jupyter
 
-> [Jupyter](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter) is a sick extension in vscode.<br>
-> It allows you to create cells just like Jupyter Notebook by typing the keyword "#%%" in a line.
+> [Jupyter](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter) is a sick extension in vscode. But in the this version, the feature has been integrated in the [Python](https://marketplace.visualstudio.com/itemdetails?itemName=ms-python.python) extension, so you don't need to download Jupyter.<br>
+> It allows you to create cells just like Jupyter Notebook by typing the keyword "#%%" in a line. You can also right click and select "Run Current File in Python Interactive Window".
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/images/jupyter.png)
 
 ## <a name="python-extension"></a>Python
 
-> [Python]() is a integrated extension containing linting(語法/排版錯誤提示), Code formatting(自動排版), intellisense(智慧填字), etc.
+> [Python](https://marketplace.visualstudio.com/itemdetails?itemName=ms-python.python) is a integrated extension containing linting(語法/排版錯誤提示), Code formatting(自動排版), intellisense(智慧填字), etc.
 
 ### Linting recommend: flake8
 
