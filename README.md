@@ -44,13 +44,13 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 ## Extensions
 
 > One of the features of VScode -- a wide variety of extensions, which makes the programming process efficient and satisfying.<br>
-> Easy to browse and install, click the 擴充功能 on the left side.
+> Easy to browse and install, click the Extensions on the left side.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/images/extensions.png)
 
 ## Open Setting
 
-> Left click the bottom left GEAR icon, find 設定.
+> Left click the bottom left GEAR icon, find Settings.
 
 ![](https://github.com/thomas861205/vscode-settings/blob/master/images/setting.png)
  <br/>
