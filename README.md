@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="https://github.com/thomas861205/vscode-settings/blob/master/cover.png">
+  <img src="https://github.com/thomas861205/vscode-settings/blob/master/images/cover.png">
 </div>
 <br/>
 
@@ -46,18 +46,18 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 > One of the features of VScode -- a wide variety of extensions, which makes the programming process efficient and satisfying.<br>
 > Easy to browse and install, click the 擴充功能 on the left side.
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/extensions.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/extensions.png)
 
 ## Open Setting
 
 > Left click the bottom left GEAR icon, find 設定.
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/setting.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/setting.png)
  <br/>
  
  > Hover on the left section, and hit 編輯 to customize the settings.
  
-![](https://github.com/thomas861205/vscode-settings/blob/master/edit_setting.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/edit_setting.png)
 <br/>
 
 ## Hot Keybind
@@ -82,17 +82,17 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 > Left click the bottom left GEAR icon, find 色彩佈景主題/檔案圖示佈景主題 to customize themes/icons.
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/change_theme.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/change_theme.png)
 
 > Use arrow keys to preview changed theme.
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/use_arrowkey.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/use_arrowkey.png)
 
 ## file-icons
 
 > [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) provides a lot of qute icons.
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/file_icons.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/file_icons.png)
 
 ## High Contrast
 
@@ -102,7 +102,7 @@ Last but not least, I care about the UI very much. I rock with cool theme and ch
 
 > [One Dark Rain Coat]() is a purplish theme, also supports sublime highlights.
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/black_rain.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/black_rain.png)
 
 # Execution
 
@@ -129,7 +129,7 @@ filename.exe < input.txt > output.txt
 Python, C/C++ are included. But need to set up compiler or interpreter beforehand.<br>
 > press `ctrl+alt+n` or right click and select "run code" to execute. Also support block execution in Python. 
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/run_code.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/run_code.png)
 
 # Python
 
@@ -138,7 +138,7 @@ Python, C/C++ are included. But need to set up compiler or interpreter beforehan
 > [Jupyter](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter) is a sick extension in vscode.<br>
 > It allows you to create cells just like Jupyter Notebook by typing the keyword "#%%" in a line.
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/jupyter.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/jupyter.png)
 
 ## <a name="python-extension"></a>Python
 
@@ -152,7 +152,7 @@ unused variables, etc...
 1. type "pip install flake8" in terminal.
 2. modify user setting(',' might required).
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/flake8.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/flake8.png)
 
 > enables flake8.
 
@@ -160,7 +160,7 @@ unused variables, etc...
 "python.linting.flake8Enabled": true
 ```
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/error_e226.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/error_e226.png)
 
 > ignores certain warning. Error codes can be found in 問題 (buttom left).
 
@@ -194,7 +194,7 @@ unused variables, etc...
 
 > press "show preview" on the upper right side.
 
-![](https://github.com/thomas861205/vscode-settings/blob/master/jupyter_preview.png)
+![](https://github.com/thomas861205/vscode-settings/blob/master/images/jupyter_preview.png)
 
 # <a name="c++"></a>C++
 
